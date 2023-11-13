@@ -7,7 +7,7 @@ This is a simple demonstration of a web page that allows users to generate QR co
 1. Clone or download the repository.
 
 ```bash
-git clone <https://github.com/MohamedSamyHossebo/Qr-Code>
+git clone https://github.com/MohamedSamyHossebo/Qr-Code
 ```
 
 2. Open the `index.html` file in a web browser.
